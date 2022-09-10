@@ -4,13 +4,14 @@ corações
 Resumo: 
 História resumo: Personagem principal busca resgatar sua amada que foi raptada com a ajuda de seu cunhado.
 O game será de aventura com 2 pessoas, sendo necessário em partes exclusivas que apenas o player 1 consiga "resolver" e em outros casos, apenas o player 2.
-Será possível escolher uma arma inicial, mas a depender de qual a arma do player 1, o player 2 sempre terá a arma para complementar o player 1, EX: Se o player 1 escolher uma arma de curto alcance, o player 2 terá uma arma de longo alcance.
+Será possível escolher uma arma inicial, mas a depender de qual a arma do player 1, o player 2 sempre terá a arma para complementar do player 1, EX: Se o player 1 escolher uma arma de curto alcance, o player 2 terá uma arma de longo alcance.
 Serão 2 jogadores em uma aventura pelo castelo, derrotando monstros e resolvendo puzzles, terão inicialmente 3 chefes.
 O nível 0 será um tutorial
 O nível 1 o nível mais fácil
 O nível 2 com mais inimigos e mais salas, mais difícil.
 O nível 3 o mais difícil, sendo o boss final.
-Neste mesmo repositório temos as imagens na ordem de acontecimento
+
+Neste repositório temos as imagens na ordem de acontecimento
 imagem 01 - Vilarejo sendo atacado, personagens aprendem a mecanica do jogo
 imagem 02 - Personagem 1 escolhe a arma
 imagem 03 - Player 2 tem a arma contrária ao player 1
